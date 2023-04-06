@@ -1,0 +1,15 @@
+.btn-bg{
+    background-color: teal;
+    color:white;
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: none;
+    /* margin: 10px 140px; */    
+}
+.bt{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 200px;
+    gap:10px;
+}
